@@ -19,7 +19,7 @@ Details View
 # Environment Variables
 You will need to create a .env file and add the following environment variable: <br>
 
-<code>REACT_APP_API_KEY= // Your own API KEY from Exercise DB API
+<code>REACT_APP_API_KEY= // Your own API KEY from Exercise DB API</code>
 
 ## Installation
 Run <code>npm install</code> on the root folder to install all dependencies.
