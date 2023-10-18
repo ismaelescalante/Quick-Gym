@@ -16,7 +16,7 @@ Details View
 
 ![Captura de pantalla (20)](https://github.com/ismaelescalante/Notflix/assets/96469912/7c6d9089-5d2b-485d-982e-6de447e438e7)
 
-# Environment Variables
+## Environment Variables
 You will need to create a .env file and add the following environment variable: <br>
 
 <code>REACT_APP_API_KEY= // Your own API KEY from Exercise DB API</code>
